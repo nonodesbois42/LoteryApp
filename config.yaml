@@ -1,0 +1,13 @@
+credentials:
+  usernames:
+    carole:
+      email: arno.nono42@gmail.com
+      name: Carole
+      password: $2b$12$yYlRLjz3fgqCtr9XYYWlAeobuA2hTVsOBsJ4/gBL4ICRndhcpEx16
+cookie:
+  expiry_days: 30
+  key: lutlutlut
+  name: lutinerie_benevoles_viz
+preauthorized:
+  emails:
+  - arno.nono42@gmail.com
