@@ -3,3 +3,4 @@ plotly
 requests
 streamlit
 streamlit_authenticator
+openpyxl
